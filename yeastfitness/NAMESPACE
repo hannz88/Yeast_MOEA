@@ -1,0 +1,3 @@
+useDynLib(yeastfitness, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libyeastfitness.a  CMakeFiles/yeastfitness.dir/yeastfitness.cpp.o
+/usr/bin/ranlib libyeastfitness.a

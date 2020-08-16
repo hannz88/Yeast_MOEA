@@ -1,0 +1,11 @@
+Package: yeastfitness
+Type: Package
+Title: Functions to get ASR, SCS and VET
+Version: 1.0.6
+Date: 2020-07-12
+Author: Han
+Maintainer: han@plaintextnerds.com
+Description: Get the ASR, SCS and VET of a bicluster. It also includes in the volume requirements from Pontes et al. (2013) and Seridi et al. (2015).
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.5)
+LinkingTo: Rcpp
