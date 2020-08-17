@@ -1,3 +1,0 @@
-/home/han/Projects/Project_yeast_II/yeastfitness/src/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/han/Projects/Project_yeast_II/yeastfitness/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/han/Projects/Project_yeast_II/yeastfitness/src/cmake-build-debug/CMakeFiles/yeastfitness.dir
