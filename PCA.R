@@ -7,6 +7,7 @@ data <- read.csv("~/file_path_name",
                  sep=",", header = TRUE, row.names = 1)
 data <- na.omit(data)
 data <- data[-5]  # omit the fifth column with cdc28
+data <- scale(data)  # standardize
 
 # load dependencies----
 library(FactoMineR)

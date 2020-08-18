@@ -21,7 +21,7 @@ if(!require(factoextra)){
 yeast_df <- read.csv("file path name", sep=",", header = TRUE, row.names = 1)
 yeast_df <- na.omit(yeast_df)
 yeast_df <- yeast_df[-5]  # omit the 5th column with cdc28
-
+yeast_df <- scale(yeast_df)
 
 # the evaluation function for genalg----
 evalfunc <- function(x){
